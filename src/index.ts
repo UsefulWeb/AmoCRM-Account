@@ -1,1 +1,1 @@
-export { Account } from './Account';
+export { Client } from './Client';
